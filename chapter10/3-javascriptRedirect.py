@@ -1,3 +1,4 @@
+#用id的loadaButton按钮减产页面是否加载完全
 from selenium import webdriver
 import time
 from selenium.webdriver.remote.webelement import WebElement
